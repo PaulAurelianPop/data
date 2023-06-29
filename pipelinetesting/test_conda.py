@@ -7,10 +7,10 @@ import numpy as np
 
 
 
-PHENO_FILE = '/home/paulpop/data/pipelinetesting/pheno_SIM_lact123_3trait_AM.txt'
-TDM_FILE = '/home/paulpop/data/pipelinetesting/pheno_SIM_lact123_5trait_TDM.txt'
-PED_FILE = '/home/paulpop/data/pipelinetesting/ped_SIM.txt'
-GENO_FILE = '/home/paulpop/data/pipelinetesting/geno_SIM.txt'
+PHENO_FILE = '/home/$USER/data/pipelinetesting/pheno_SIM_lact123_3trait_AM.txt'
+TDM_FILE = '/home/$USER/data/pipelinetesting/pheno_SIM_lact123_5trait_TDM.txt'
+PED_FILE = '/home/$USER/data/pipelinetesting/ped_SIM.txt'
+GENO_FILE = '/home/$USER/data/pipelinetesting/geno_SIM.txt'
 
 
 
